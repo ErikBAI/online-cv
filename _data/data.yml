@@ -6,7 +6,7 @@ sidebar:
     # Site Settings
     title: Erik's Resume
     url: 'https://erikbai.github.io/online-cv/'
-    about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
+    about: false # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
     name: Erik Bai
@@ -15,7 +15,7 @@ sidebar:
     
     # Sidebar links
     email: goanotherway@gmail.com
-    phone: (+61) 0481 839 666
+    phone: +61 (0)481 839 666
 #    website: blog.webjeda.com #do not add http://
     linkedin: erikbai
 #    github: erikbai
@@ -123,36 +123,36 @@ projects:
 
 
 
-publications:
-    title: Publications
-    intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+# publications:
+#     title: Publications
+#     intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
     
-    publications:
-      - paper:
-        title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-      - paper:
-        title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-      - paper:
-        title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#     publications:
+#       - paper:
+#         title: The Art of Computer Programming
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
+#       - paper:
+#         title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#       - paper:
+#         title: A syntax directed compiler for Algol 60
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
 
 skills:
     title: Skills &amp; Proficiency
     skills:
         - skill:
-          name: Python & Django
-          level: 98%
+          name: Agile Scrum
+          level: 80%
         - skill:
-          name: Javascript & jQuery
-          level: 98%
+          name: Axure
+          level: 70%
         - skill:
-          name: Angular
+          name: 
           level: 98%
         - skill:
           name: HTML5 & CSS
